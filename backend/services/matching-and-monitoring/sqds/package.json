@@ -1,0 +1,19 @@
+{
+  "name": "action-building",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@solana/web3.js": "^1.95.3",
+    "aws-sdk": "^2.1691.0",
+    "axios": "^1.7.7",
+    "bs58": "^6.0.0",
+    "crypto": "^1.0.1"
+  }
+}

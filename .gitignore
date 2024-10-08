@@ -1,0 +1,88 @@
+# General ignores
+.DS_Store
+Thumbs.db
+*.log
+*.env
+!.env.example
+.vscode/
+.idea/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencies
+package-lock.json
+yarn.lock
+.pnpm-debug.log
+
+# Next.js build output
+.next/
+out/
+*.next.swp
+
+# Next.js static and cache
+.next/cache/
+.next/server/
+.next/static/
+public/static/
+
+# TypeScript
+*.tsbuildinfo
+dist/
+tsconfig.tsbuildinfo
+
+# JavaScript
+*.cache
+*.eslintcache
+coverage/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyd
+*.pdb
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+*.egg-info/
+.eggs/
+build/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller
+# Usually contains a lot of unnecessary files, ignore it:
+/dist/
+/build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Flask and Django local settings
+instance/
+.migrations/
+
+# VSCode settings (optional)
+.vscode/
+
+# Test and coverage
+.tox/
+.nox/
+.coverage
+*.cover
+.hypothesis/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+

@@ -1,0 +1,22 @@
+.wallet-adapter-button-trigger {
+	background-color: #00ced1 !important;
+	border-radius: 10px !important;
+	padding: 12px;
+	/* width: 170px; */
+  /* display: none; */
+
+	@media (max-width: 500px) {
+		padding: 5px;
+		width: 120px;
+		font-size: 1rem;
+	}
+}
+
+.wallet-adapter-modal,
+.wallet-adapter-modal-fade-in {
+	position: fixed;
+}
+
+.wallet-adapter-button, .wallet-adapter-button-trigger {
+  width: 10rem;
+}
