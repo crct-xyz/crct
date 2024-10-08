@@ -30,6 +30,6 @@ Here you will find all the code consolidated into one place but we are largely f
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: Next.js, Tailwind CSS, typescript
-- **Backend**: FastAPI, Python, DynamoDB, vanilla javascript
-- **Infrastructure**: AWS Lambda, Docker, Docker Compose, EC2, S3, Vercel, SQS
+- **Frontend**: Next.js, Tailwind CSS, Typescript
+- **Backend**: FastAPI, Python, DynamoDB, Javascript
+- **Infrastructure**: Solana, Dialect Actions, Helius, AWS Lambda, Docker, Docker Compose, EC2, S3, Vercel, SQS
