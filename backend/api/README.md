@@ -1,4 +1,4 @@
-# Squint API
+# CRCT API
 
 ## Dev
 
